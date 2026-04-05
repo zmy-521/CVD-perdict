@@ -45,14 +45,14 @@ All features are designed to be easily obtainable from routine blood tests and b
 
 ### Local Environment
 
-1. Clone the repository
+# 1. Clone the repository
 git clone https://github.com/ZMY-521/CVD-predict.git
 cd CVD-predict
 
-2. Install required dependencies
+# 2. Install required dependencies
 pip install -r requirements.txt
 
-3. Launch the Streamlit app
+# 3. Launch the Streamlit app
 streamlit run app.py
 
 ### Streamlit Cloud (Recommended for Sharing)
